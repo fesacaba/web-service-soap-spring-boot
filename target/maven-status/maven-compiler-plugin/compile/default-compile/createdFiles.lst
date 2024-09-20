@@ -1,0 +1,7 @@
+com/example/sample/WebServiceConfig.class
+com/example/sample/ListUsersEndpoint.class
+com/example/sample/SampleApplication.class
+com/example/soap/GetExampleResponse.class
+com/example/soap/GetExampleRequest.class
+com/example/soap/package-info.class
+com/example/soap/ObjectFactory.class
